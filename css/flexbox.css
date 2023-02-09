@@ -1,9 +1,4 @@
-.teste{
-    width: 768px;
-    position: absolute;
-    height: 15px;
-    background-color: blueviolet;
-}
+
 
 .cabecalhoPrincipal .container {
     display: flex;
@@ -134,5 +129,9 @@
 .videoSobre .container{
     flex-direction: column;
 }
+
+.cabecalhoPrincipal-nav-link-app {
+    order: -1;
+  }
 
 }
